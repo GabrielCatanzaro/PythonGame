@@ -1,0 +1,25 @@
+Relatório do Jogo Labirinto e Pontuação
+
+Integrantes:
+
+Gabriel Gomes Catanzaro RM:93445
+Pedro Henrique Salvitti RM:88166
+Lucas Gomes Alcantara RM:98766
+Filipe Prado Menezes RM:98765
+Henrique Canali Cuzato RM:551326
+
+
+Desafios Implementados:
+
+Boas práticas: Criado arquivo requirements.txt para facilitar a instalação do jogo sem instruções adicionais.
+Pedra: Desenho de retângulos que bloqueiam a passagem do jogador.
+Múltiplas 'Pedras': Suporte a múltiplos obstáculos no labirinto.
+Labirinto: Criado um labirinto à mão, com o jogador iniciando no centro e tendo que alcançar a borda.
+Contagem de Pontos: Exibição da contagem de pontos no prompt de comando do Windows.
+Exibição de Pontuação: Pontuação sendo exibida na tela do jogo.
+Crescimento do Jogador: Implementação do crescimento do jogador ao comer um quadradinho.
+Wrap Around: Permitido o movimento contínuo do jogador através das bordas da tela.
+
+Observações Adicionais:
+
+O jogo está funcional e atende aos requisitos estabelecidos no projeto.
